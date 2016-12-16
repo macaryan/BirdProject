@@ -1,0 +1,247 @@
+* {
+    margin: auto 0;
+    padding: 0;
+    line-height: 25px;
+    }
+
+body {
+    background-color: #05051C;
+    max-width: 100%;
+}
+
+.wrapper {
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: grey;
+}
+
+.imgbackground {
+    background-image: url(../images/backgroundill.png);
+    background-size: cover;
+    background-position: center center;
+    height: 2100px;
+    position: relative;
+}
+
+.space {
+    padding: 200px 300px;
+}
+
+.space2 {
+    padding: 200px 200px;
+}
+
+
+/*---
+-----
+HEADER
+-----
+---*/
+
+.header ul {
+  overflow:hidden;
+  margin: 0 auto;
+  padding: 20px 0;
+  align: center;
+  list-style-type: none;
+  width: 100%;
+  text-align: center;
+ background-color: ##010000;
+}
+
+.header ul li {
+    display: inline;
+    font-size: 1.5em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    text-align:center;
+    letter-spacing: 1.2px;
+    color: #62affe;
+    font-family: ;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+header ul a:hover {
+    text-decoration: underline;
+}
+
+
+
+/*---
+-----
+Typography
+-----
+---*/
+
+h1, h2, h3 {
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.title {
+    position: absolute; 
+   top: 500px; 
+   left: 18%; 
+   width: 100%; 
+}
+
+p {
+     color: white;
+    font-family: 'Taviraj', serif;
+}
+    
+
+table tr td {
+    color: white;
+}
+
+
+h1 {
+    font-size: 50px;}
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    padding-bottom: 10px;}
+
+.blockquote {
+    font-size: 35px;
+    text-align: center;
+    line-height:1.2em;
+    color: black;
+    padding: 2em;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+}
+
+cite {
+    position: relative; 
+    left: 820px;
+    color: white;
+}
+
+hr { 
+    margin: 30px 0;
+}
+
+
+/*---
+-----
+Bird
+-----
+---*/
+
+
+#extinctbird {
+    background-color: #010000;
+}
+
+
+#extinctbird p {
+    color: white;}
+    
+
+
+
+
+
+/*---
+-----
+Futile Wings
+-----
+---*/
+
+#footspan {
+    background-color: #302239;}
+
+#footspan p {
+    color: white;}
+
+.image {
+    padding-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+caption {
+    padding-top: 30px;
+    text-align: center;
+}
+
+/*---
+-----
+Blockquote
+-----
+---*/
+
+#blockquote {
+    background-color: #010000;}
+
+
+
+
+/*---
+-----
+MOA
+-----
+---*/
+
+#MOA {
+    background-color: #302239;}
+
+
+
+/*---
+-----
+Quest
+-----
+---*/
+
+#quest {
+    background-color: #010000;}
+
+
+/*---
+-----
+Winter
+-----
+---*/
+
+#winter { background-color: #302239;}
+
+
+/*---
+-----
+New Zealand
+-----
+---*/
+
+#newzealand {
+    background-color: #010000;}
+
+
+
+
+
+
+
+/*---
+-----
+Footer
+-----
+---*/
+
+.footer {
+    color: aliceblue;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: ##010000;
+}
